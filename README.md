@@ -9,7 +9,7 @@
 * Diving into Web/Android reverse engineering
 
 ## Contact me 💭
-- <a href="mailto:crinny@protonmail.com">📩 E-mail (prefered): `ltmtp32@gmail.com`</a>
+- <a href="mailto:ltmtp32@gmail.com">📩 E-mail (prefered): `ltmtp32@gmail.com`</a>
 
 ## Donate 💸
 - <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3-569581.png" width=16 height=16 align="center" /> Ethereum: `0xdb06CC6557A3cA3d45a44B9EC28649AF16B24E8e`

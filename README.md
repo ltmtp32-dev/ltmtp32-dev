@@ -13,7 +13,7 @@
 
 ## Stats 📊
 <img src="https://gpvc.arturio.dev/ltmtp32-dev" align="center" />
-<img src="https://github-readme-stats.vercel.app/api?username=ltmtp32-dev&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ltmtp32-dev&show_icons=true&count_private=false">
 
 <!-- Zero width character is used to put extra blank lines before and after code -->
 

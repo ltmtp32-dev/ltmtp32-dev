@@ -11,9 +11,34 @@
 ## Contact me 💭
 - <a href="mailto:ltmtp32@gmail.com">📩 E-mail (prefered): `ltmtp32@gmail.com`</a>
 
-## Donate 💸
-- <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3-569581.png" width=16 height=16 align="center" /> Ethereum: `0xdb06CC6557A3cA3d45a44B9EC28649AF16B24E8e`
-
 ## Stats 📊
 <img src="https://gpvc.arturio.dev/ltmtp32-dev" align="center" />
 <img src="https://github-readme-stats.vercel.app/api?username=ltmtp32-dev&show_icons=true&count_private=true">
+
+<!-- Zero width character is used to put extra blank lines before and after code -->
+
+<h4>
+    
+```python
+​
+import json
+from dataclasses import asdict, dataclass
+
+
+@dataclass
+class Stack:
+    languages   : tuple[str, ...] = ("Python", "NodeJS", "Rust")
+    databases   : tuple[str, ...] = ("MongoDB", "Redis", "PostgreSQL")
+    misc        : tuple[str, ...] = ("k8s", "ZMQ")
+    ongoing     : tuple[str, ...] = ("Django", "Typescript")
+
+    def serialize(self):
+        return json.dumps(asdict(self), indent=4)
+
+
+stack = Stack()
+print(stack.serialize())
+​
+```
+</h4>
+
